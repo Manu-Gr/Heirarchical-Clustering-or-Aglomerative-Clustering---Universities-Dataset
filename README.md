@@ -1,1 +1,1 @@
-# Heirarchical-Clustering-or-Aglomerative-Clustering---Universities-Dataset
+# Heirarchical-Clustering-or-Agglomerative-Clustering---Universities-Dataset
